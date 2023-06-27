@@ -1,0 +1,7 @@
+git checkout main
+vi alx
+cd ..
+rm -r js
+git add *
+git commit -m "Hot fix"
+git push origin
